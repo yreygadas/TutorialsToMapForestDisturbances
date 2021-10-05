@@ -1,3 +1,2 @@
-The contents of this work are currently under peer-review.
-We will update this with the appropriate paper citation accordingly.
-If you have any questions about the code or content, email Yunuen Reygadas (yregada@richmond.edu)
+For further details, please refer to https://iopscience.iop.org/article/10.1088/2515-7620/ac2210 
+
